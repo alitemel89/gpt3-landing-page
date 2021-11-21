@@ -8,6 +8,8 @@ import Header from "./containers/Header/Header";
 import WhatGPT from "./containers/WhatGPT3/WhatGPT";
 import Footer from "./containers/Footer/Footer";
 import Possibility from "./containers/Possibility/Possibility";
+import './App.css';
+
 
 const App = () => {
   return (
